@@ -1,6 +1,6 @@
 EsrdAdCardiacSafety
 ==============================
-
+- This retrospective cohort study aimed to investigate the impact of antidepressants on cardiac safety based on electrocardiogram (ECG) findings using the common data model (CDM) among patients with ESRD receiving hemodialysis.
 
 Requirements
 ============
